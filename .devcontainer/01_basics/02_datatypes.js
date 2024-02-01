@@ -16,6 +16,6 @@ let isLoggedIn = false
 //undefined -> not declared
 //symbol-> when we make many components and we want to define some uniquely (use in REACT)
 
-console.log(type of "sakshi") //sting
-console.log(type of null) //null
-console.log(type of undefined) //undefined 
+console.log(typeof "sakshi") //sting
+console.log(typeof null) //object
+console.log(typeof undefined) //undefined 
